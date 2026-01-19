@@ -1,0 +1,13 @@
+{
+  "name": "Students",
+  "columns": ["id", "name", "surname", "grade"],
+  "rows": [
+    {"id":1.0,"name":"Szymon","surname":"Maj","grade":4.0},
+    {"id":3.0,"name":"Karol","surname":"Listopad","grade":4.0},
+    {"id":4.0,"name":"Grzegorz","surname":"Luty","grade":5.0},
+    {"id":5.0,"name":"Andrzej","surname":"Marzec","grade":null},
+    {"id":6.0,"name":"Kacper","surname":"Kwiecien","grade":null},
+    {"id":7.0,"name":"Krzysztof","surname":"Czerwiec","grade":null},
+    {"id":8.0,"name":"Maciej","surname":"Grudzien","grade":3.0}
+  ]
+}
